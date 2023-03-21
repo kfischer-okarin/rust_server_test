@@ -184,6 +184,7 @@ name = "game_server_test"
 version = "0.1.0"
 dependencies = [
  "r2d2",
+ "tokio",
  "warp",
 ]
 

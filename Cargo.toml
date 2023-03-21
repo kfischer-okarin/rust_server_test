@@ -7,4 +7,5 @@ edition = "2021"
 
 [dependencies]
 r2d2 = "0.8.10"
+tokio = "1.26.0"
 warp = "0.3.3"
